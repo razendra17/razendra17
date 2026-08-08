@@ -40,4 +40,4 @@ A Computer Science student based in Indonesia with a strong passion for **Artifi
 ## 📫 Connect With Me
 
 - ✉️ **Email:** razendra17@gmail.com 
--💬**Discord** derahs
+- 💬**Discord** derahs
