@@ -16,13 +16,6 @@ A Computer Science student based in Indonesia with a strong passion for **Artifi
 
 --
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=razendra17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=razendra17&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=razendra17&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 🛠️ Tech Stack & Tools
 
