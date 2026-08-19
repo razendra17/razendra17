@@ -4,9 +4,11 @@
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
 
-  <p style="width: 200px; height: 50px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-    <img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" style="width: 800px; height: auto; max-width: none;">
-  </p>
+<p align="center">
+  <object data="https://giphy.com" width="800" height="300" style="pointer-events: none;">
+    <img src="https://giphy.com" width="800">
+  </object>
+</p>
 
 
 A Computer Science student based in Indonesia with a strong passion for **Artificial Intelligence** and **Web Development**.
