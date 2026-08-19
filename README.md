@@ -4,7 +4,7 @@
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
 <p align="left">
-  <img src="ezgif.com-crop.gif" width="800" height="100%">
+  <img src="ezgif.com-crop.gif" width="100vh" height="100%">
 </p>
 
 A Computer Science student based in Indonesia with a strong passion for **Artificial Intelligence** and **Web Development**.
