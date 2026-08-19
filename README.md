@@ -1,4 +1,4 @@
-<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/c770b20d-be46-4dc3-b8b0-ff690d5d6dbb" /><img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/a55e8eca-ce46-4d0e-9748-78f5037a860a" /># Hi there, I'm Razendra 👋
+# Hi there, I'm Razendra 👋
 
 [![Computer Science Student](https://img.shields.io/badge/Role-Computer%20Science%20Student-blue?style=for-the-badge)](#)
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
