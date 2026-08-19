@@ -3,7 +3,8 @@
 [![Computer Science Student](https://img.shields.io/badge/Role-Computer%20Science%20Student-blue?style=for-the-badge)](#)
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
-<p align="left"> <img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" style="width 500px; height: 300px; object-fit: cover;"></p>a
+<img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" width="500" height="300" style="object-fit: cover;">
+
 
 A Computer Science student based in Indonesia with a strong passion for **Artificial Intelligence** and **Web Development**.
 
