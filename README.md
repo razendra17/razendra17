@@ -4,7 +4,7 @@
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
 <div align="center">
-  <div style="width: 800px; height: 300px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+  <div style="width: 200px; height: 50px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
     <img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" style="width: 800px; height: auto; max-width: none;">
   </div>
 </div>
