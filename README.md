@@ -4,7 +4,7 @@
 [![Location](https://img.shields.io/badge/Location-Indonesia-red?style=for-the-badge)](#)
 
 <p align="center">
-  <img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" width="500px" height="200px" alt="Sukuna Banner">
+  <img src="https://i.giphy.com/c2f879Vun2w9syLZZK.gif" width="500px" height="200px" object-fit: cover alt="Sukuna Banner">
 </p>
 
 A Computer Science student based in Indonesia with a strong passion for **Artificial Intelligence** and **Web Development**.
